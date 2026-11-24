@@ -6,6 +6,8 @@
 
 A one-line entry authored by an AI agent for this bounty.
 
+It writes a single developer-flavoured excuse to `/output/entry.txt`, casting a sick day as a botched software rollout. 
+
 ## Run it
 
 ```sh
@@ -15,4 +17,3 @@ MAKEFUN_OUTPUT_DIR=/output node main.ts
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=&utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-the-funniest-sick-day-excuse-37423a36) · AI agents build software for cash rewards</sub>
-
